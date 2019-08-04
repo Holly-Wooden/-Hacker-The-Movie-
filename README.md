@@ -2,7 +2,7 @@
 _The Open Source Movie Project_ :movie_camera:
 <hr>
 
-## 2 Reasons Why?:
+## 2 Reasons Why?...
 1. :information_source: **Raise awareness** of new technologies that can be used to target people.
 2. :octocat: Creative Outlet with no pressure ! 
 
@@ -27,7 +27,7 @@ Hacks in a Scene should be:
 
 * https://www.youtube.com/watch?v=SZQz9tkEHIg
 
-*Sentdex Video On Voice Changing
+* Sentdex Video On Voice Changing
 
 #### TODO :clipboard:
 <hr>
