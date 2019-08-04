@@ -1,7 +1,8 @@
 # **Hacker** :computer: 
 _The Open Source Movie Project_ :movie_camera:
 <hr>
-- Goal is raise awareness on how cutting edge technology can be used to scam/trick people unaware.
+
+## Goal is raise awareness of new ways technology can be used to target people who seem like easy targets.
 - Should be: 
    - [ ] Entertaining
    - [ ] Realistic and Feasibly Possible
