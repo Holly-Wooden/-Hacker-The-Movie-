@@ -4,7 +4,7 @@ _The Open Source Movie Project_ :movie_camera:
 
 ## 2 Reasons Why?...
 1. :information_source: **Raise awareness** of new technologies that can be used to target people.
-2. :octocat: Creative Outlet with no pressure ! 
+2. :octocat: Creative Outlet for breaks when I’m coding. It gives me a reason to keep learning about the latest technologies and the impact they can have. 
 
 ### Scenes
 Hacks in a Scene should be: 
