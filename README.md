@@ -1,5 +1,10 @@
-# Hacker-The-Movie 
-- Open Source Movie Script
+# **Hacker** *The Open Source Movie Project* 
+- Goal is raise awareness on how cutting edge technology can be used to scam/trick people unaware.
+- Should be: 
+   - [ ] Entertaining
+   - [ ] Realistic and Feasibly Possible
+   - [ ] A clever trick
+
 - Exercise in predicting ways people can use technology for no good. 
 - Write a Scene- Exercise that creative other half of the brain. 
 - Make someone laugh or teach someone something clever.
