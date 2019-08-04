@@ -2,13 +2,17 @@
 _The Open Source Movie Project_ :movie_camera:
 <hr>
 
-## Goal is raise awareness of new technologies can be used to target people.
+## 2 Reasons Why?:
+1. :information_source: **Raise awareness** of new technologies that can be used to target people.
+2. :octocat: Creative Outlet with no pressure ! 
+
+### Scenes
 Hacks in a Scene should be: 
    - [ ] Entertaining
    - [ ] Realistic && Feasibly Possible
    - [ ] Exploiting a Weakness
-   - [ ] Educational To The Not-Tech-Savvy Type
-
+   - [ ] Educational To Less-Tech-Savvy Types
+   <hr>
 - Exercise in predicting ways people can use technology for no good. 
 - Be a break i look forward to while coding! 
 - Submit some ideas :bulb: ! 
@@ -16,14 +20,14 @@ Hacks in a Scene should be:
    * Exercise that creative other half of the brain. 
    * Make someone laugh :smile: or teach someone something clever.
 
-
-
 ### Resources 
 * https://www.youtube.com/watch?time_continue=5&v=7ykCCvT5mG4
 
 * http://templatelab.com/screenplay-templates/
 
 * https://www.youtube.com/watch?v=SZQz9tkEHIg
+
+*Sentdex Video On Voice Changing
 
 #### TODO :clipboard:
 <hr>
