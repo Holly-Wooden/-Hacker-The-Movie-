@@ -33,6 +33,8 @@ Hacks in a Scene should be:
 
 * Sentdex Video On Voice Changing
 
+* https://github.com/sl4vkek/ChatAs
+
 #### TODO :clipboard:
 - [ ] Simplify formatting a scene to adhere the standard below.
 - [ ] Make a blog/form with some scenarios and what led me to this silly idea
@@ -52,6 +54,5 @@ Hacks in a Scene should be:
    - [ ] The dialogues should be 2.5-inches from the page’s left side.
    
 <hr>
-
 
 
