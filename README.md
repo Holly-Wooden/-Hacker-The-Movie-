@@ -13,10 +13,14 @@ Hacks in a Scene should be:
    - [ ] Exploiting a Weakness
    - [ ] Educational To Less-Tech-Savvy Types
    <hr>
-- Exercise in predicting ways people can use technology for no good. 
+   
+- Exercise in predicting ways people can use technology for :imp: no good. 
+
 - Be a break i look forward to while coding! 
-- Submit some ideas :bulb: ! 
-- Take a break & Write a Scene or submit an idea!
+
+- Submit some ideas :bulb:! 
+
+- **Take a break & Write a Scene or submit an idea!**
    * Exercise that creative other half of the brain. 
    * Make someone laugh :smile: or teach someone something clever.
 
@@ -30,10 +34,13 @@ Hacks in a Scene should be:
 * Sentdex Video On Voice Changing
 
 #### TODO :clipboard:
-<hr>
-Simplify formatting a written scene to the standard below.
+- [ ] Simplify formatting a scene to adhere the standard below.
+- [ ] Make a blog/form with some scenarios and what led me to this silly idea
+- [ ] Movie Cover for fun 
 
-   **Holly Wood Script**:
+
+#####**Holly Wood Script**
+   <hr>
    - [ ] Use a 12pt size of the Courier font
    - [ ] The left margin should be 1.5-inches
    - [ ] The right margin should be 1-inch, ragged
@@ -45,5 +52,5 @@ Simplify formatting a written scene to the standard below.
    - [ ] The dialogues should be 2.5-inches from the page’s left side.
 <hr>
 
-- [ ] Make a blog/form with some scenarios and what led me to this silly idea
+
 
