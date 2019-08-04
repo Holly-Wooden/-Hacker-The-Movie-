@@ -24,7 +24,7 @@ _The Open Source Movie Project_ :movie_camera:
 
 * https://www.youtube.com/watch?v=SZQz9tkEHIg
 
-#### TODO
+#### TODO :clipboard:
 <hr>
 - [ ] Write a Python Script to prompt user input and output in this format:
    HollyWood Script
