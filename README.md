@@ -2,11 +2,12 @@
 _The Open Source Movie Project_ :movie_camera:
 <hr>
 
-## Goal is raise awareness of new ways technology can be used to target people who seem like easy targets.
+## Goal is raise awareness of new technologies can be used to target people.
 Hacks in a Scene should be: 
    - [ ] Entertaining
    - [ ] Realistic && Feasibly Possible
-   - [ ] Exploiting some weakness
+   - [ ] Exploiting a Weakness
+   - [ ] Educational To The Not-Tech-Savvy Type
 
 - Exercise in predicting ways people can use technology for no good. 
 - Be a break i look forward to while coding! 
@@ -28,7 +29,7 @@ Hacks in a Scene should be:
 <hr>
 Simplify formatting a written scene to the standard below.
 
-**"Holly Wood Script"**:
+   **Holly Wood Script**:
    - [ ] Use a 12pt size of the Courier font
    - [ ] The left margin should be 1.5-inches
    - [ ] The right margin should be 1-inch, ragged
