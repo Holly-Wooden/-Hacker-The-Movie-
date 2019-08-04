@@ -26,16 +26,17 @@ _The Open Source Movie Project_ :movie_camera:
 
 #### TODO :clipboard:
 <hr>
-- [ ] Write a Python Script to prompt user input and output in this format:
-   HollyWood Script
-- [ ] Use a 12pt size of the Courier font
-- [ ] The left margin should be 1.5-inches
-- [ ] The right margin should be 1-inch, ragged
-- [ ] The top and bottom margins should also be 1-inch.
-- [ ] You should have approximately 55 lines on each page, no matter what the size of your paper is. Adjust your margins accordingly if you’re using smaller or bigger-sized paper
-- [ ] The names of the dialogue speakers (in CAPS) should be 3.7-inches from the page’s left side.
-- [ ] The parentheticals of the actors should be 3.1-inches from the page’s left side.
-- [ ] The dialogues should be 2.5-inches from the page’s left side.
+- [ ] Write a Python Script to prompt &simplify input and output in the strict example of a *"Holly Wood Script"*:
+   
+   - [ ] Use a 12pt size of the Courier font
+   - [ ] The left margin should be 1.5-inches
+   - [ ] The right margin should be 1-inch, ragged
+   - [ ] The top and bottom margins should also be 1-inch.
+   - [ ] You should have approximately 55 lines on each page, no matter what the size of your paper is. Adjust your margins accordingly if you’re using smaller or bigger-sized paper
+   - [ ] The names of the dialogue speakers (in CAPS) should be 3.7-inches from the page’s left side.
+   - [ ] The parentheticals of the actors should be 3.1-inches from the page’s left side.
+   - [ ] The dialogues should be 2.5-inches from the page’s left side.
 <hr>
+
 - [ ] Make a blog/form with some scenarios and what led me to this silly idea
 
