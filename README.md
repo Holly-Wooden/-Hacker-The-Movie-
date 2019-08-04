@@ -38,9 +38,9 @@ Hacks in a Scene should be:
 - [ ] Make a blog/form with some scenarios and what led me to this silly idea
 - [ ] Movie Cover for fun 
 
-
-#####**Holly Wood Script**
+##### **Holly Wood Script**
    <hr>
+   
    - [ ] Use a 12pt size of the Courier font
    - [ ] The left margin should be 1.5-inches
    - [ ] The right margin should be 1-inch, ragged
@@ -50,6 +50,7 @@ Hacks in a Scene should be:
    - [ ] The names of the dialogue speakers (in CAPS) should be 3.7-inches from the page’s left side.
    - [ ] The parentheticals of the actors should be 3.1-inches from the page’s left side.
    - [ ] The dialogues should be 2.5-inches from the page’s left side.
+   
 <hr>
 
 
