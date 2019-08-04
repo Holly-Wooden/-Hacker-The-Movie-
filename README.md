@@ -26,7 +26,7 @@ Hacks in a Scene should be:
 
 #### TODO :clipboard:
 <hr>
-- [ ] Simplify formatting a written scene to the standard below.
+Simplify formatting a written scene to the standard below.
 
 **"Holly Wood Script"**:
    - [ ] Use a 12pt size of the Courier font
